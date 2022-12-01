@@ -2,4 +2,5 @@ numpy==1.21.5
 ipywidgets==7.6.5
 plotly==5.6.0
 folium==0.12.1.post1
-IPython==8.2.0
+IPython
+pandas
